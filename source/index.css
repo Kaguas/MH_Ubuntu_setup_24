@@ -1,0 +1,38 @@
+#top {
+    top: 0;
+    left: 0;
+    height: 5vh;
+}
+
+#contents {
+    top: 5vh;
+    left: 0;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+}
+
+#links {
+    top: 0;
+    right: 5vw;
+    height: 90vh;
+    width: 15vw;
+    display: flex;
+    
+}
+#right_frame {
+    top: 0;
+    left: 0;
+    height: 90vh;
+    width: 80vw;
+    display: flex;
+}
+#page {
+    top: 0;
+    left: 0;
+    height: 90vh;
+    width: 80vw;
+}
+li {
+    margin-bottom: 5vh;
+}
