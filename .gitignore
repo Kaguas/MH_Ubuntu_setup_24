@@ -1,0 +1,2 @@
+# ignore resource files from macOS
+.DS_Store
